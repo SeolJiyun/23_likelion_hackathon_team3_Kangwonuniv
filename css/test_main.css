@@ -4,14 +4,13 @@ body {
     text-align: center;
 }
 
-.q {
+#main_all {
     border: 1mm solid #72edba;
     margin-top: 120px;
     margin-left: 20vw;
     margin-right: 20vw;
     width: 60vw;
     height: 90%;
-    text-align: center;
 }
 
 .logo {
@@ -20,38 +19,28 @@ body {
     font-size: 20px;
 }
 
-.q h1{
+#main_all h1 {
     margin-right: 20px;
     margin-left: 20px;
-    margin-top: 50px;
-    
-    font-size: 35px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+    font-size: 40px;
+    line-height: 150%;
 }
 
-.img_q {
-    margin: 20px;
-    padding: auto;
-    height: 30vh;
+#main_a {
+    margin-top: 100px;
+    padding: 30px;
 }
 
-.img_q img {
-    height: 100%;
-}
-
-.a_q {
-    margin-top: 10px;
-    padding: 10px;
-}
-
-.a_q a{
+#main_a a {
     background-color: #72edba;
-    display:inline-block;
-    width:80%;
-    height: 30px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding: 10px;
-    font-size: 25px;
+    margin: 10px;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 30px;
     color:#000;
     text-decoration: none;
     border: 1mm solid #72edba;
