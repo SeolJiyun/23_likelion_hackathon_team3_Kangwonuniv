@@ -1,0 +1,55 @@
+body {
+    width: 100vw;
+    height: auto;
+    text-align: center;
+}
+
+.al {
+    border: 1mm solid #72edba;
+    border-radius: 10px;
+    margin-top: 120px;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    width: 60vw;
+    height: 90%;
+    text-align: center;
+}
+
+.logo {
+    background-color: #fff;
+    margin: 20px;
+    font-size: 20px;
+}
+
+.al p{
+    margin: 30px;
+    font-size: 30px;
+    line-height: 200%;
+}
+
+.p_list {
+    margin: 40px;
+}
+.p_list div {
+    display:inline-block;
+    width: 70%;
+    height: 110px;
+    margin: 5px;
+    padding: 3px;
+    border: 1mm solid #72edba;
+    border-radius: 10px;
+}
+
+.p_list div img {
+    height: 90%;
+    padding: 1%;
+    margin-right: 5px;
+    float: left;
+
+}
+
+.p_list div a {
+    float: left;
+    margin: 5px;
+    text-decoration: none;
+}
