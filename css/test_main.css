@@ -10,7 +10,7 @@ body {
     margin-left: 20vw;
     margin-right: 20vw;
     width: 60vw;
-    height: 90%;
+    height: 80%;
 }
 
 .logo {
@@ -22,10 +22,10 @@ body {
 #main_all h1 {
     margin-right: 20px;
     margin-left: 20px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 80px;
+    margin-bottom: 160px;
     padding: 20px;
-    font-size: 40px;
+    font-size: 50px;
     line-height: 150%;
 }
 
@@ -40,7 +40,7 @@ body {
     padding: 15px;
     padding-left: 40px;
     padding-right: 40px;
-    font-size: 30px;
+    font-size: 40px;
     color:#000;
     text-decoration: none;
     border: 1mm solid #72edba;

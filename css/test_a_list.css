@@ -30,7 +30,7 @@ body {
 .p_list {
     margin: 40px;
 }
-.p_list div {
+.p_list a {
     display:inline-block;
     width: 70%;
     height: 110px;
@@ -38,9 +38,13 @@ body {
     padding: 3px;
     border: 1mm solid #72edba;
     border-radius: 10px;
+    margin: 5px;
+    text-decoration: none;
+    text-align: left;
+    color:#000;
 }
 
-.p_list div img {
+.p_list a img {
     height: 90%;
     padding: 1%;
     margin-right: 5px;
@@ -48,8 +52,18 @@ body {
 
 }
 
-.p_list div a {
-    float: left;
-    margin: 5px;
+#back_to_first {
+    background-color: #72edba;
+    display:inline-block;
+    width:40%;
+    height: 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 20px;
+    color:#000;
     text-decoration: none;
+    border: 1mm solid #72edba;
+    text-align: center;
+    border-radius: 50px;
 }

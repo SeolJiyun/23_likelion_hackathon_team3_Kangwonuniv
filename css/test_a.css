@@ -24,7 +24,19 @@ body {
 .a h2{
     margin-right: 20px;
     margin-left: 20px;
+    margin-bottom: 30px;
+    margin-top: 6cqmax;
     font-size: 30px;
+    line-height: 80%;
+}
+
+
+.a h1{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-top: 60px;
+    font-size: 40px;
     line-height: 80%;
 }
 
@@ -61,6 +73,12 @@ body {
 
 .p_list {
     margin: 40px;
+    margin-bottom: 80px;
+}
+
+.p_list p {
+    margin-top: 80px;
+    font-size: 20px;
 }
 .p_list div {
     display:inline-block;
@@ -72,16 +90,24 @@ body {
     border-radius: 10px;
 }
 
-.p_list div img {
+.p_list a {
+    display:inline-block;
+    width: 70%;
+    height: 110px;
+    margin: 5px;
+    padding: 3px;
+    border: 1mm solid #72edba;
+    border-radius: 10px;
+    margin: 5px;
+    text-decoration: none;
+    text-align: left;
+    color:#000;
+}
+
+.p_list a img {
     height: 90%;
     padding: 1%;
     margin-right: 5px;
     float: left;
 
-}
-
-.p_list div a {
-    float: left;
-    margin: 5px;
-    text-decoration: none;
 }
